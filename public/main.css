@@ -445,7 +445,7 @@ form > :last-child {
   margin-top: 1rem;
 }
 
-@font-face {
+/* @font-face {
   font-family: anime;
   src: url(./animeace2_reg.ttf);
 }
@@ -456,4 +456,4 @@ body, div, form{
 
 h1, h2, h3, h4, h5, h6{
   font-family: anime;
-}
+} */
